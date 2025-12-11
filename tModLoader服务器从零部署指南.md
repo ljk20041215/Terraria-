@@ -37,6 +37,7 @@ categories: 游戏服务器搭建
 
 ## 五、首次启动（第一次运行会下载.NET环境）
 - ./start-tModLoaderServer.sh -nosteam
+
 重要提示：首次启动时会有一段时间看起来"卡住"，这是正在下载.NET环境，请耐心等待，不要中断进程。
 
 ## 六、mod的添加
